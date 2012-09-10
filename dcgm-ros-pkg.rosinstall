@@ -1,0 +1,5 @@
+- git:
+    uri: 'git://github.com/dcgm-robotics/but_object_detection.git'
+    local-name: but_object_detection
+    version: master
+
